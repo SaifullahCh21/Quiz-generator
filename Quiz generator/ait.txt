@@ -1,0 +1,13 @@
+Title: ait
+Description: bhfth
+Subject Tag: aict
+Number of Questions: 1
+Time Limit: 1 minutes
+--------------------
+Question 1: wqweq
+Option 1: yes
+Option 2: no
+Option 3: ali
+Option 4: both
+Correct Answer: 2
+--------------------

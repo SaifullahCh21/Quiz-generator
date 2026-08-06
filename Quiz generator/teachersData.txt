@@ -1,0 +1,14 @@
+Login ID: 123
+Name: Aizaz
+Password: 123
+CNIC: 123
+Department: CS
+Number of Courses: 2
+--------------------
+Login ID: 456
+Name: Nadeem
+Password: 456
+CNIC: 456
+Department: CS
+Number of Courses: 1
+--------------------

@@ -1,0 +1,31 @@
+Login ID: 123
+Name: saif
+Password: 123
+CNIC: 35201
+Department: cs
+Section: d
+GPA: 2
+CGPA: 3
+Quiz Marks: 2
+--------------------
+--------------------
+Login ID: 456
+Name: Ali
+Password: 456
+CNIC: 456
+Department: CS
+Section: C
+GPA: 0
+CGPA: 0
+Quiz Marks: 0
+--------------------
+Login ID: 789
+Name: Khurram
+Password: 789
+CNIC: 789
+Department: CS
+Section: C
+GPA: 0
+CGPA: 0
+Quiz Marks: 0
+--------------------
