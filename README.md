@@ -1,2 +1,0 @@
-# Saifullah
-e-voting project
